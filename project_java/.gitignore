@@ -1,1 +1,6 @@
 /bin/
+/Client.java
+.settings
+.project
+.gitignore
+.classpath
